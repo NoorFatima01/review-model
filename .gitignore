@@ -1,0 +1,62 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Anaconda project files
+anaconda-project.yml.lock
+anaconda-project-local.yml
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments (in case you use them alongside conda)
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+anaconda_projects/
+anaconda_projects/db/
+anaconda_projects/db/project_filebrowser.db
+
+# Conda environments (if you export them)
+environment.yml.lock
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
